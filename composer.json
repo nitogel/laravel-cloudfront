@@ -50,7 +50,7 @@
                 "Meema\\CloudFront\\Providers\\CloudFrontServiceProvider"
             ],
             "aliases": {
-                "CloudFront": "Meema\\CloudFront\\Facades\\CloudFrontFacade"
+                "CloudFront": "Meema\\CloudFront\\Facades\\CloudFront"
             }
         }
     }
